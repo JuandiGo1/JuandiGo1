@@ -5,7 +5,7 @@
 #### 🚀 ¡Hola! Soy **Juan Maestre**, estudiante de **Ingeniería de Sistemas** en la Universidad del Norte, actualmente en noveno semestre. Me apasiona el **desarrollo de software, web y la gestión de bases de datos**.  <br><br>💡 Disfruto crear cosas nuevas y encontrar soluciones a problemas con tecnologías como **JavaScript, TypeScript, React, Express.js, Tailwind, Python, Java, SQL, MongoDB y SQL Server**.  <br><br>📌 Te invito a explorar mi [portafolio](https://juan-maestre.vercel.app) y proyectos. ¡Siempre estoy abierto a aprender y colaborar! 🚀🔥
 
 ###
-
+Mis Tecnologías!
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
