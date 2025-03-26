@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -65,7 +65,7 @@
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/JuandiGo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zic4rfazovsxlq3om6lscujnyi&unique={true|1|on|yes}" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zic4rfazovsxlq3om6lscujnyi&count={1}" alt="Spotify recently played"  />
   </a>
 </div>
 
