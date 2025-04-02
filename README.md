@@ -12,7 +12,7 @@
 
 Hello! I'm **Juan Maestre**, a **Systems Engineering** student at Universidad del Norte, currently in my ninth semester. I'm passionate about **software and web development, and database management**. I enjoy creating new things and finding solutions to problems 💡 with technologies such as **JavaScript, TypeScript, React, Express.js, Tailwind, Python, Java, SQL, MongoDB, and SQL Server**. <br><br>📌 I invite you to explore my [portfolio](https://juan-maestre.vercel.app) and projects. I'm always open to learning and collaborating! 🚀🔥
 
-### 🛠 Mis Tecnologías!
+### 🛠 My Technologies!
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
