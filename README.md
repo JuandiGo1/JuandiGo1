@@ -8,9 +8,9 @@
   </a>
 </div>
 
-### 👩‍💻 Sobre mi
+### 👩‍💻 About Me
 
-¡Hola! Soy **Juan Maestre**, estudiante de **Ingeniería de Sistemas** en la Universidad del Norte, actualmente en noveno semestre. Me apasiona el **desarrollo de software, web y la gestión de bases de datos**. Disfruto crear cosas nuevas y encontrar soluciones a problemas 💡 con tecnologías como **JavaScript, TypeScript, React, Express.js, Tailwind, Python, Java, SQL, MongoDB y SQL Server**.  <br><br>📌 Te invito a explorar mi [portafolio](https://juan-maestre.vercel.app) y proyectos. ¡Siempre estoy abierto a aprender y colaborar! 🚀🔥
+Hello! I'm **Juan Maestre**, a **Systems Engineering** student at Universidad del Norte, currently in my ninth semester. I'm passionate about **software and web development, and database management**. I enjoy creating new things and finding solutions to problems 💡 with technologies such as **JavaScript, TypeScript, React, Express.js, Tailwind, Python, Java, SQL, MongoDB, and SQL Server**. <br><br>📌 I invite you to explore my [portfolio](https://juan-maestre.vercel.app) and projects. I'm always open to learning and collaborating! 🚀🔥
 
 ### 🛠 Mis Tecnologías!
 <div align="center">
@@ -55,7 +55,7 @@
 
 
 
-### 🎧 Un poquito de lo que escucho! 
+### 🎧 A little bit of what I hear!
 <div align="center">
   <a href="https://open.spotify.com/user/31zic4rfazovsxlq3om6lscujnyi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zic4rfazovsxlq3om6lscujnyi&count=1" alt="Spotify recently played"  />
